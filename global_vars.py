@@ -1,0 +1,9 @@
+
+# Required GLOBAL VARIABLES for Backtory file manager service
+
+BACKTORY_AUTHENTICATION_ID = '5a0855dfe4b0afa163bf1889'
+BACKTORY_AUTHENTICATION_KEY = '280df9e45d6348bd88ee821b'
+BACKTORY_STORAGE_ID = '5a08562ae4b0afa163bf1b3b'
+
+USER_NAME = 'sefidmou@hotmail.com'
+PASSWORD = '001101374a'
